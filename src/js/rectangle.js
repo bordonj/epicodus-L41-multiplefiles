@@ -3,6 +3,9 @@ export default class Rectangle {
     this.side1 = side1;
     this.side2 = side2;
   }
+  getArea() {
+    
+  }
 }
 
 // Good Fail: Add first test and Example Class.
