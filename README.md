@@ -1,6 +1,8 @@
 # (Application Name)
 
 #### (Brief Description of Application)
+Practice with L. 41 https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/working-with-multiple-files
+Practice using template
 
 #### By (Your Name Here)
 
